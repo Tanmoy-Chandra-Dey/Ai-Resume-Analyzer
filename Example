@@ -1,0 +1,18 @@
+AI Resume Analyzer
+
+Paste your resume text:
+Python developer with experience in machine learning and SQL
+
+Paste job description:
+Looking for a Python developer with machine learning experience
+
+Resume Analysis Result
+
+Detected Skills
+- python
+- machine learning
+- sql
+
+Job Match Score: 66%
+
+Good match for the job role!
